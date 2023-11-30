@@ -1,5 +1,3 @@
-import './src/libs/dayJs';
-
 import {
   Inter_400Regular,
   Inter_600SemiBold,
